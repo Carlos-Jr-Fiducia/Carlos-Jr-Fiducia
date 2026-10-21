@@ -70,7 +70,3 @@ Desenvolvedor no setor financeiro, na Fiducia SCM, construindo uma plataforma de
 - **Integrações:** integração do app com APIs REST de onboarding, Pix, boletos e cartões seguindo contratos versionados; no backend, rota de resumo de devoluções de um Pix recebido atravessando dois serviços Node.js, com testes automatizados e documentação Swagger, além da correção de nível de acesso em uma rota de consulta de conta.
 - **Confiabilidade em produção:** gestão centralizada de sessão e expiração de token, timeout padrão nas chamadas de serviço, hotfixes de logout e de fuso horário nos comprovantes do extrato e correção da leitura de boletos em aparelhos Android, com cobertura por testes unitários e de widget (flutter_test, Mockito, Mocktail) e fluxos E2E com Maestro.
 - **Processo de entrega:** automação em Python do build white label para múltiplos clientes (marca, ícones, assinatura, Firebase, geração de AAB e IPA e envio ao App Store Connect), ferramenta Python que transforma arquivos do Figma em pacote de contexto para geração de código, releases versionadas do app e PRs padronizados com passos de deploy para o time de DevOps. Mais de 2.200 commits entre 2025 e 2026.
-
-## Contato
-
-- GitHub: [@Carlos-Jr-Fiducia](https://github.com/Carlos-Jr-Fiducia)
