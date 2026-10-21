@@ -19,8 +19,8 @@ Desenvolvedor no setor financeiro, na Fiducia SCM, construindo uma plataforma de
 ![Python](https://img.shields.io/badge/Python-0D5A5C?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-0D5A5C?style=for-the-badge&logo=rust&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-0D5A5C?style=for-the-badge&logo=c&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-0D5A5C?style=for-the-badge&logo=delphi&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-0D5A5C?style=for-the-badge&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-0D5A5C?style=for-the-badge&logo=delphi&logoColor=white)dotnet
+![C#](https://img.shields.io/badge/C%23-0D5A5C?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-0D5A5C?style=for-the-badge&logoColor=white)
 
 **Backend**
